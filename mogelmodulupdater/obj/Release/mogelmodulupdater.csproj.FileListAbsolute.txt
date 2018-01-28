@@ -1,0 +1,6 @@
+C:\Users\Adi\Source\Repos\mogelmodulupdater\mogelmodulupdater\bin\Release\mogelmodulupdater.exe.config
+C:\Users\Adi\Source\Repos\mogelmodulupdater\mogelmodulupdater\bin\Release\mogelmodulupdater.exe
+C:\Users\Adi\Source\Repos\mogelmodulupdater\mogelmodulupdater\bin\Release\mogelmodulupdater.pdb
+C:\Users\Adi\Source\Repos\mogelmodulupdater\mogelmodulupdater\obj\Release\mogelmodulupdater.csproj.CoreCompileInputs.cache
+C:\Users\Adi\Source\Repos\mogelmodulupdater\mogelmodulupdater\obj\Release\mogelmodulupdater.exe
+C:\Users\Adi\Source\Repos\mogelmodulupdater\mogelmodulupdater\obj\Release\mogelmodulupdater.pdb
